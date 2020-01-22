@@ -1,4 +1,4 @@
-
+﻿
 package information;
 
 
@@ -45,7 +45,7 @@ public class Rsa {
               //E=E.add(BigInteger.ONE);
          }
      }
-        System.out.println("e=");
+        System.out.println("e==");
         System.out.println(E);
         
        // double e1= e.doubleValue();
